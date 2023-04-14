@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  pre {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+  }
+  
+  .key {
+    color: #000080;
+  }
+  
+  .string {
+    color: #d96629;
+  }
+  
+  .boolean {
+    color: #a90d91;
+  }
+  
+  .null {
+    color: #a90d91;
+  }
+  
+  .number {
+    color: #58d0f4;
+  }
+  
+  .result-score-value {
+    color: #58d0f4;
+  }
+  
