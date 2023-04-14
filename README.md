@@ -1,4 +1,4 @@
-# Google Knowledge Graph Tool
+# Google Knowledge Graph Tool / Explorer
 
 JSON Output to HTML from Google Knowledge Graph API
 
